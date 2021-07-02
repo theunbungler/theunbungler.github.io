@@ -24,8 +24,7 @@ github_username:  theunbungler
 
 # Build settings
 markdown: kramdown
-#theme: minima
-remote_theme: midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
