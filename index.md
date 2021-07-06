@@ -27,6 +27,6 @@ layout: default
 
 ### Other
 * [x] [Research Communities in cyber security: A Comprehensive Literature Review](https://arxiv.org/abs/2104.13196)
-`    * Mostly an overview of the communities and subcommunities based on data from Scopus, with limitations on certain numbers of articles and estimates for threshholds for what constitutes a *community* and *sub-community* 
+    * Mostly an overview of the communities and subcommunities based on data from Scopus, with limitations on certain numbers of articles and estimates for threshholds for what constitutes a *community* and *sub-community* 
 * [ ] [DPSyn: Experiences in the NIST Differential Privacy Data Synthesis Challenges](https://arxiv.org/abs/2106.12949) 
 * [ ] [Vulnerability Detection with Fine-grained Interpretations](https://arxiv.org/abs/2106.10478)
