@@ -23,9 +23,11 @@ layout: default
 * [ ] [QFuzz: Quantitative Fuzzing for Side Channels](https://arxiv.org/abs/2106.03346)
 * [ ] [SN4KE: Practical Mutation Testing at Binary Level](https://arxiv.org/abs/2102.05709)
 * [ ] [AlphaFuzz: Evolutionary Mutation-based Fuzzing as Monte Carlo Tree Search](https://arxiv.org/abs/2101.00612)
+* [ ] [Incremental Vulnerability Detection via Back-Propagating Symbolic Execution of Insecurity Separation Logic](https://arxiv.org/abs/2107.05225)
 
 ### Cryptography
 * [ ] [On the Differential Cryptanalysis of SEPAR Cipher](https://arxiv.org/abs/2106.12638)
+* [ ] [You Really Shouldn't Roll Your Own Crypto: An Empirical Study of Vulnerabilities in Cryptographic Libraries](https://arxiv.org/abs/2107.04940)
 
 ### Other
 * [x] [Research Communities in cyber security: A Comprehensive Literature Review](https://arxiv.org/abs/2104.13196)
