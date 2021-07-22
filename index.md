@@ -21,6 +21,8 @@ layout: default
 
 ### Fuzzing
 * [ ] [QFuzz: Quantitative Fuzzing for Side Channels](https://arxiv.org/abs/2106.03346)
+* [ ] [SN4KE: Practical Mutation Testing at Binary Level](https://arxiv.org/abs/2102.05709)
+* [ ] [AlphaFuzz: Evolutionary Mutation-based Fuzzing as Monte Carlo Tree Search](https://arxiv.org/abs/2101.00612)
 
 ### Cryptography
 * [ ] [On the Differential Cryptanalysis of SEPAR Cipher](https://arxiv.org/abs/2106.12638)
@@ -30,3 +32,5 @@ layout: default
     * Mostly an overview of the communities and subcommunities based on data from Scopus, with limitations on certain numbers of articles and estimates for threshholds for what constitutes a *community* and *sub-community* 
 * [ ] [DPSyn: Experiences in the NIST Differential Privacy Data Synthesis Challenges](https://arxiv.org/abs/2106.12949) 
 * [ ] [Vulnerability Detection with Fine-grained Interpretations](https://arxiv.org/abs/2106.10478)
+* [ ] [Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits](https://arxiv.org/abs/2102.07869)
+* [ ] [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://arxiv.org/abs/2002.01139)
