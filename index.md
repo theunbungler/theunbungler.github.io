@@ -36,3 +36,4 @@ layout: default
 * [ ] [Vulnerability Detection with Fine-grained Interpretations](https://arxiv.org/abs/2106.10478)
 * [ ] [Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits](https://arxiv.org/abs/2102.07869)
 * [ ] [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://arxiv.org/abs/2002.01139)
+* [ ] [Towards a Theory of Bullshit Visualization](https://arxiv.org/abs/2109.12975)
