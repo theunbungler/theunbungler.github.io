@@ -16,6 +16,7 @@ layout: default
 * [ ] [PSIMiner: A Tool for Mining Rich Abstract Syntax Trees from Code](https://arxiv.org/abs/2103.12778)
 * [ ] [On the combination of static analysis for software security assessment -- a case study of an open-source e-government project](https://arxiv.org/abs/2103.08010)
 * [ ] [XFL: eXtreme Function Labeling](https://arxiv.org/abs/2107.13404v1)
+* [ ] [A Smart and Defensive Human-Machine Approach to Code Analysis](https://arxiv.org/abs/2108.03294v2)
 
 ### Static/Dynamic Analysis
 
