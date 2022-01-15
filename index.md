@@ -51,3 +51,4 @@ layout: default
 ### Tools
 
 * [ ] pSharpHook](https://github.com/IlanKalendarov/SharpHook)
+* [ ] [CheeseTools](https://github.com/klezVirus/CheeseTools) - RPC & COM related
